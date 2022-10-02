@@ -11,14 +11,14 @@ gem 'rails'
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem 'sprockets-rails'
 
-# Contributed Rack Middleware and Utilities
-gem 'rack-contrib'
-
 # Use postgresql as the database for Active Record
 gem 'pg'
 
 # Use the Puma web server [https://github.com/puma/puma]
 gem 'puma'
+
+# Contributed Rack Middleware and Utilities
+gem 'rack-contrib'
 
 # Bundle and transpile JavaScript [https://github.com/rails/jsbundling-rails]
 gem 'jsbundling-rails'

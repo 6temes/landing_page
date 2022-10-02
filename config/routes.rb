@@ -1,7 +1,3 @@
-Rails.application.routes.draw do
-  # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
+# frozen_string_literal: true
 
-  # Defines the root path route ("/")
-  # root "articles#index"
-  root 'root#show'
-end
+Rails.application.routes.draw { root 'root#show' }
