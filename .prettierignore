@@ -1,5 +1,4 @@
 /app/assets/builds
-/app/assets/stylesheets/legacy/_lite-purple.scss
 /app/javascript/controllers/index.js
 /coverage
 /db/schema.rb

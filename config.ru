@@ -1,8 +1,10 @@
+# frozen_string_literal: true
+
 # This file is used by Rack-based servers to start the application.
 
 require 'rack'
 require 'rack/contrib'
-require_relative "config/environment"
+require_relative 'config/environment'
 
 use Rack::Locale
 
